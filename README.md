@@ -11,3 +11,9 @@ Test line added in from pycharm.
 test
 
 Edited this new line from chrome.
+
+stashing
+
+Testing out patches on pycharm.
+
+Testing out patches on pycharm. 
